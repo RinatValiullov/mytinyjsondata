@@ -42,12 +42,11 @@
     }
   ],
   "profile": {
-      "name": "4rontender",
-      "language": {
-        "language": "JavaScript",
+      "person": {
+      	"name": "4rontender",
+	"language": "JavaScript",
         "framework": "React",
         "spec": "ECMASCRIPT"
-      }
-      
+      }     
   }
 }

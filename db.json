@@ -41,6 +41,28 @@
 		  "address": "953 Mauris Av."
     }
   ],
+  "comments": [
+    {
+      "identificator": 1,
+      "body": "Placerat malesuada et ac proin conubia porttitor nibh. Proin interdum ipsum in netus felis habitasse convallis faucibus luctus a. Feugiat nam netus sagittis adipiscing dui pellentesque sed sociosqu. Ridiculus feugiat vel consequat sagittis aliquam turpis quisque urna nostra. Aliquet taciti sagittis potenti suscipit volutpat lacus ultricies dignissim turpis bibendum congue purus? Aenean nisi curabitur molestie venenatis dignissim laoreet suscipit interdum id at non mollis. Tellus tristique netus at. Bibendum orci et varius inceptos feugiat. Mi tincidunt ac eget.",
+      "postId": 1
+    },
+    {
+      "identificator": 2,
+      "body": "Ut ipsum cubilia cursus nisl cum est sagittis fames convallis. Rhoncus elit aenean accumsan est morbi dis viverra. Non ultricies rutrum fusce eget accumsan. Est non curabitur placerat eros. Et laoreet aliquam turpis placerat mus ipsum ad risus, eu lacinia tempor tincidunt. Commodo ullamcorper lorem luctus. Odio felis cum nascetur nullam nam curae; habitasse.",
+      "postId": 1
+    },
+    {
+      "identificator": 3,
+      "body": "Varius libero aenean aliquet consectetur malesuada vivamus ut. Metus fusce magna turpis varius tincidunt rhoncus egestas etiam. Cras curae; viverra quisque in habitasse eu lorem pretium. Justo lacinia justo proin habitant lectus vel pellentesque! Turpis integer purus dictumst phasellus. Fusce potenti eget quisque condimentum aliquet eu. Bibendum blandit non ultricies mauris himenaeos? Torquent hendrerit aenean duis condimentum habitasse.",
+      "postId": 2
+    },
+    {
+      "identificator": 4,
+      "body": "Ante risus, eget feugiat. Mollis nunc convallis dui, condimentum convallis dictumst molestie! Litora in penatibus arcu fringilla curabitur. Bibendum montes ut dignissim integer phasellus netus odio eros dapibus curae; curabitur. Per conubia aliquam laoreet lorem maecenas placerat blandit mattis. Magna, semper pellentesque convallis pellentesque. Donec scelerisque vitae mi. Venenatis lobortis et, viverra lobortis. Lacus congue imperdiet facilisis pellentesque adipiscing nunc dolor nunc.",
+      "postId": 3
+    }
+  ],
   "profile": {
       "person": {
       	"name": "4rontender",

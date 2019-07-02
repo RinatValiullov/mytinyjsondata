@@ -66,9 +66,9 @@
   "profile": {
       "person": {
       	"name": "4rontender",
-	"language": "JavaScript",
+	    "language": "JavaScript",
         "framework": "Vue",
-        "spec": "Awesome"
+        "description": "Awesome"
       }     
   }
 }

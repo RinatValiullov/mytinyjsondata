@@ -1,12 +1,18 @@
 {
   "posts": [
     {
-      "identificator": 1.01,
+      "id": 1,
       "title": "Some title number 1",
       "text": "Some text in post number 1"
+    },
+    {
+      "id": 2,
+      "title": "Some title number 2",
+      "text": "Some text in post number 2"
     }
   ],
   "profile": {
-    "name": "4rontender"
+    "name": "4rontender",
+    "area": "JavaScript"
   }
 }

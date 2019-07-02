@@ -1,3 +1,3 @@
 # My json server with custom data
 
-## [Docs](https://github.com/typicode/json-server)
+## [JSON Server docs](https://github.com/typicode/json-server)

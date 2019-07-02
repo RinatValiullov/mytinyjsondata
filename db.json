@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "identificator": 1.01,
+      "title": "Some title number 1",
+      "text": "Some text in post number 1"
+    }
+  ],
+  "profile": {
+    "name": "4rontender"
+  }
+}

@@ -67,8 +67,8 @@
       "person": {
       	"name": "4rontender",
 	"language": "JavaScript",
-        "framework": "React",
-        "spec": "ECMASCRIPT"
+        "framework": "Vue",
+        "spec": "Awesome"
       }     
   }
 }

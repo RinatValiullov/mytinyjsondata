@@ -6,7 +6,7 @@
         { "text": "Some text #1", "isCorrect": false },
         { "text": "Some text #2", "isCorrect": false },
         { "text": "Some text #3", "isCorrect": true },
-        { "text": "Some text #4", "isCorrect": false },
+        { "text": "Some text #4", "isCorrect": false }
       ]
     },
     {
@@ -15,7 +15,7 @@
         { "text": "Some text #1", "isCorrect": false },
         { "text": "Some text #2", "isCorrect": false },
         { "text": "Some text #3", "isCorrect": true },
-        { "text": "Some text #4", "isCorrect": false },
+        { "text": "Some text #4", "isCorrect": false }
       ]
     },
     {
@@ -24,8 +24,8 @@
         { "text": "Some text #1", "isCorrect": false },
         { "text": "Some text #2", "isCorrect": false },
         { "text": "Some text #3", "isCorrect": true },
-        { "text": "Some text #4", "isCorrect": false },
+        { "text": "Some text #4", "isCorrect": false }
       ]
-    },
+    }
   ]
 }
